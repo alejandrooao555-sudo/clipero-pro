@@ -1,0 +1,10 @@
+{
+  "name": "CLIPERO PRO",
+  "short_name": "CLIPERO PRO",
+  "description": "Editor gratuito de clips de video",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#100d19",
+  "theme_color": "#100d19",
+  "icons": []
+}
